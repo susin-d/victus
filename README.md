@@ -273,5 +273,6 @@ For questions or support:
 
 **Repository**: [https://github.com/susin-d/Team-6.git](https://github.com/susin-d/Team-6.git)
 **Status**: ✅ Complete & Deployment Ready
-**Version**: 1.0.0#   T e a m - 6  
+**Version**: 1.0.0#   T e a m - 6 
+ 
  
