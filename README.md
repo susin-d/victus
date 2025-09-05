@@ -1,6 +1,6 @@
 # Blockchain-Based Agricultural Produce Tracking System
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/susin-d/Team-6.git)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/susin-d/victus.git)
 [![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-blue?logo=ethereum)](https://ethereum.org/)
 [![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/Mobile-React%20Native-blue?logo=react)](https://reactnative.dev/)
@@ -122,7 +122,7 @@ SIH25045/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/susin-d/Team-6.git
+   git clone https://github.com/susin-d/victus.git
    cd SIH25045
    ```
 
@@ -266,12 +266,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or support:
 - 📧 Email: [project-support@example.com]
-- 🐛 Issues: [GitHub Issues](https://github.com/susin-d/Team-6/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/susin-d/victus/issues)
 - 📖 Documentation: [.docs/](.docs/) directory
 
 ---
 
-**Repository**: [https://github.com/susin-d/Team-6.git](https://github.com/susin-d/Team-6.git)
+**Repository**: [https://github.com/susin-d/victus.git](https://github.com/susin-d/victus.git)
 **Status**: ✅ Complete & Deployment Ready
 **Version**: 1.0.0#   T e a m - 6 
  
