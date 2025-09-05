@@ -1,0 +1,27 @@
+{
+  "name": "sih25045",
+  "version": "1.0.0",
+  "description": "[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/susin-d/Team-6.git)\r [![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-blue?logo=ethereum)](https://ethereum.org/)\r [![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://reactjs.org/)\r [![React Native](https://img.shields.io/badge/Mobile-React%20Native-blue?logo=react)](https://reactnative.dev/)\r [![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)](https://nodejs.org/)",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susin-d/Team-6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/susin-d/Team-6/issues"
+  },
+  "homepage": "https://github.com/susin-d/Team-6#readme",
+  "devDependencies": {
+    "hardhat": "^3.0.4"
+  },
+  "dependencies": {
+    "ethers": "^6.15.0"
+  }
+}

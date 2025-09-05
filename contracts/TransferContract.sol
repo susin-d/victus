@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.19;
 
 import "./ProduceRegistry.sol";
 
@@ -25,7 +25,7 @@ contract TransferContract {
     }
 
     function logTransfer(uint256 _produceId, address _to, string memory _logisticsInfo) public {
-        (, address farmer,,,, bool isActive) = produceRegistry.produces(_produceId);
+        (uint256 id, address farmer, , , , , bool isActive) = produceRegistry.produces(_produceId);
         require(isActive, "Produce not active");
         require(msg.sender == farmer || transfers[transferCount].to == msg.sender, "Unauthorized transfer");
 
